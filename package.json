@@ -12,7 +12,7 @@
     "idgen": "~1.1.1",
     "amino-redis": "~0.1.0",
     "amino-service": "~0.1.0",
-    "amino-request": "~0.2.2",
+    "amino-request": "https://github.com/david-benes/amino-request/tarball/master",
     "amino-spec": "~0.1.0"
   },
   "homepage": "https://github.com/amino/amino",
